@@ -27,7 +27,7 @@ Python scripts and Google Colab notebooks for practicing data analysis and visua
 
 ## Dependencies
 
-These notebooks use standard Python libraries (pandas, numpy, matplotlib, seaborn), all available in Colab by default.  
+These notebooks use standard Python libraries (pandas, numpy, matplotlib), all available in Colab by default.  
 
 ## 📜 License
 
