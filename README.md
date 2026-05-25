@@ -5,7 +5,7 @@ Python scripts and Google Colab notebooks for practicing data analysis and visua
 ## 📁 Contents
 
 - Google Colab notebooks (`*.ipynb`)
-- Practice scripts for data cleaning, manipulation, plottin
+- Practice scripts for data cleaning, manipulation, plotting
 - Example analyses on sample datasets
 
 ## 🏁 Quick Start
